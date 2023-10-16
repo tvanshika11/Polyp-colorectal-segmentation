@@ -28,9 +28,7 @@ The randomly split datasets we tested the models on are publicly available [here
 The datasets used in this study are publicly available at: 
 - Kvasir-SEG: [here](https://datasets.simula.no/kvasir-seg/). 
 
-## Results
 
-The results presented in the paper are also avaiable here:
 
 ### Kvasir
 
