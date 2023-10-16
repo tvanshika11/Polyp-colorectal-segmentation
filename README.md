@@ -61,16 +61,11 @@ An example of qualitative results can be seen below:
 
 ![Qualitative Results](QualitativeResults.png)
 
-## Model weights
 
-The weights for the models that achieved the final results can be found on [here](https://drive.google.com/drive/folders/1i2-YizsmycWd47rxVMrfZ3GraEA64SDU?usp=sharing) on Google Drive.
 
-## Citation
 
-```
-Dumitru, RG., Peteleaza, D. & Craciun, C. Using DUCK-Net for polyp image segmentation. Sci Rep 13, 9803 (2023). https://doi.org/10.1038/s41598-023-36940-5
-```
 
-To cite the paper please use the following citation:
+
+
 
 
